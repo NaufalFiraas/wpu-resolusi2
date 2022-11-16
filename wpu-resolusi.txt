@@ -1,0 +1,5 @@
+WPU RESOLUSI
+  - belajar react.js
+  - bikin resume/ personal web
+  - bikin web frontend yg consume api
+  - apply job frontend
