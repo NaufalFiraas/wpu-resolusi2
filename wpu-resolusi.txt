@@ -2,5 +2,6 @@ WPU RESOLUSI
   - belajar react.js
   - bikin resume/ personal web
   - bikin web frontend yg consume api
+  - belajar dasar struktur data
   - latihan test coding interview
   - apply job frontend
