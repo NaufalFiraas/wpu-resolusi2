@@ -2,5 +2,7 @@ RENCANA KONTEN WPU:
   - React.js
   - nodejs
   - vue.js
+  - php
+  - laravel
   - Interviews
   - Vlog
